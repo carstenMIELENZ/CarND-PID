@@ -1,0 +1,7 @@
+NOTE: tuning enabled Kp =0.2 - Kd = 3 - Ki = 0.004
+Listening to port 4567
+Connected!!!
+NOTE: error total = 0.000294594 @ steps 2000
+NOTE: Kp = 0.2 - Kd = 3 - Ki = 0.004
+NOTE: dp = 0.1 - dd = 1 - di = 0.001
+NOTE: case 0 - index 0 K 0.1 - dK = 0.1
